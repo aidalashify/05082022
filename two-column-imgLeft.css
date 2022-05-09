@@ -1,0 +1,106 @@
+     main {
+     
+    font-family: inherit;
+       display: contents;
+   }
+
+   
+      @font-face {
+      font-family: 'wide';
+      src: url(https://cdn.shopify.com/s/files/1/1832/9335/files/GraphikWide-Regular.woff2?v=1627450731);
+    }
+
+    @font-face {
+      font-family: 'Didot Bold';
+      src: url(https://cdn.shopify.com/s/files/1/1832/9335/files/Didot_LT_Std_Bold.otf?v=1650562835);
+    }
+
+ @font-face {
+      font-family: 'Graphik Wide Bold';
+      src: url(https://cdn.shopify.com/s/files/1/1832/9335/files/GraphikWide-Bold.otf?v=1651538224);
+    }
+
+  .custom-text-section {
+    max-width: 1000px;
+    padding-top: 20px;
+    margin: 0 auto;
+
+      }
+
+
+    .one-half-column-left  {
+        width:48%;
+        float:left;
+        left:0;
+    }
+
+
+    .one-half-column-right {
+        width:48%;
+        float:right;
+        padding-top: 0;
+      }
+
+    .item__img {
+    padding-left:-10px!important;
+    left:0;
+    }
+    
+    .text_title-right {
+     font-family: 'Didot Bold'!important;
+     font-size: 30px;
+     padding-bottom: 5px;
+  }
+
+.shopNow {
+ font-family: 'Graphik Wide Bold';
+   text-decoration: underline;
+  font-size: 18px;
+   font-weight:700;
+}
+
+  @media only screen and (min-width: 767px) {
+  
+    .text_title-right {
+  
+    padding-top:62px;
+    }
+ 
+  
+    .one-half-column-left-img  {
+        width:48%;
+        float:left;
+        left:0;
+    }
+    
+  }
+
+
+
+
+    @media only screen and (max-width: 767px) {
+        .one-half-column-left, .one-half-column-right, 
+        .one-third-column, .one-third-column-last {
+        float:none;
+        width:100%;
+        margin-right:0;
+        padding: 20px!important;
+        }
+      
+       
+      
+       .text_title-right {
+        padding-top: -150!important;
+        }
+      
+       
+     
+      
+      .reverse-on-mobile  { 
+        flex-direction: column-reverse!important; 
+      } 
+
+
+    }
+
+
