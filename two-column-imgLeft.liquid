@@ -1,0 +1,79 @@
+{{ 'two-column-imgLeft.css' | asset_url | stylesheet_tag }}
+
+<main>
+
+
+<div class="custom-text-section reverse-on-mobile " >
+  
+
+    <div class="one-half-column-right">
+      <div class="item__img one-half-column-left-img">
+      {{ section.settings.column_image | img_url: '' | img_tag }}
+    </div>
+      <div class="text_title-right"> {{- section.settings.custom_text_title-right -}} </div>
+      <div>{{ section.settings.custom_text_body-right }}
+         <a class="shopNow"  href="{{ section.settings.shopNow_link }}">
+         {{ section.settings.shop-now }}
+         </a>
+      </div>
+      
+    </div>
+  
+    
+  
+  <br style="clear:both;" />
+
+  
+</div>
+
+
+</main>
+
+
+
+
+{% schema %}
+  {
+    "name": "Two Column imgLeft",
+    "settings": [
+
+ {
+        "id": "custom_text_title-right",
+        "type": "text",
+        "label": "Text box heading",
+        "default": "Title"
+      },
+      {
+        "id": "custom_text_body-right",
+        "type": "richtext",
+        "label": "Add custom text below",
+        "default": "<p>Add your text here</p>"
+      },
+
+
+ {
+        "type": "image_picker",
+        "id": "column_image",
+        "label": "image",
+        "info": "Dimensions 490 x 490 "
+      },
+ {
+        "type": "text",
+        "id": "shop-now",
+        "label": "shop",
+        "info": "Shop Now"
+      },
+ {
+            "type": "url",
+            "id": "shopNow_link",
+            "label": "CTA Link"
+          }
+    ],
+ "presets": [
+      {
+      "name": "Two Column imgLeft",
+      "category": "ADVANCED LAYOUT"
+      }
+      ]
+  }
+{% endschema %}
