@@ -1,0 +1,1105 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1636073160df78abd2": {
+      "type": "hero",
+      "disabled": true,
+      "blocks": {
+        "02cf1d13-94b5-464e-9343-96249d36f36e": {
+          "type": "hero_slide",
+          "settings": {
+            "intro": "",
+            "mobile_headline": "",
+            "headline": "<h4>Hi. Nice to meet you. \nWe're happy you found us. \nThat's usually all it takes.<\/h4>",
+            "mobile_content": "Hi.",
+            "content": "",
+            "cta_text": "PATENTS & intellectual property",
+            "cta_link": "shopify:\/\/pages\/patents",
+            "secondary_cta_text": "",
+            "secondary_cta_link": "",
+            "mobile_background_position": "center center",
+            "video_url": ""
+          }
+        },
+        "799cab7c-4802-4fe9-9eab-5402cffa7771": {
+          "type": "hero_slide",
+          "settings": {
+            "intro": "",
+            "mobile_headline": "",
+            "headline": "",
+            "mobile_content": "",
+            "content": "",
+            "cta_text": "",
+            "cta_link": "",
+            "secondary_cta_text": "",
+            "secondary_cta_link": "",
+            "mobile_background_position": "center center",
+            "video_url": ""
+          }
+        },
+        "e7b01ca6-8a88-47d8-a332-c963dbe7d063": {
+          "type": "hero_slide",
+          "settings": {
+            "intro": "",
+            "mobile_headline": "",
+            "headline": "",
+            "mobile_content": "",
+            "content": "",
+            "cta_text": "",
+            "cta_link": "",
+            "secondary_cta_text": "",
+            "secondary_cta_link": "",
+            "mobile_background_position": "center center",
+            "video_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "02cf1d13-94b5-464e-9343-96249d36f36e",
+        "799cab7c-4802-4fe9-9eab-5402cffa7771",
+        "e7b01ca6-8a88-47d8-a332-c963dbe7d063"
+      ],
+      "settings": {
+        "rotation_speed": 8,
+        "display_state": "all"
+      }
+    },
+    "16357413702f589e33": {
+      "type": "vip-benefits",
+      "disabled": true,
+      "blocks": {
+        "16357413702f589e33-0": {
+          "type": "vip-benefit",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/Innovation_7.png",
+            "image_mobile": "shopify:\/\/shop_images\/Innovation_7.png",
+            "nav_title": "WHO WE ARE",
+            "heading": "INVENTED BY A WOMAN",
+            "subheading": "Lashify is the brainchild of Sahara Lotti. What started as an obsession to DIY her own lashes in 2015 turned into the Lashify system. In a world where CEO’s are faceless, nameless even, Sahara is synonymous with Lashify. And her DNA is intertwined. She’s unabashed and unapologetic, just like the system she created."
+          }
+        },
+        "16357413702f589e33-1": {
+          "type": "vip-benefit",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/Innovation.png",
+            "image_mobile": "shopify:\/\/shop_images\/Innovation.png",
+            "nav_title": "WHAT WE ARE",
+            "heading": "PATENTS & TRADEMARKS",
+            "subheading": "We find solutions to complex beauty applications through innovation. Currently we have over 120 patents and trademarks worldwide on the Lashify system and our goal is to keep going. We strongly believe in protecting our IP and empowering others in business. For decades beauty IP has been grossly disrespected by the big guys, and our goal is to make a change."
+          }
+        },
+        "16357413702f589e33-2": {
+          "type": "vip-benefit",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/Innovation_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Innovation_1.png",
+            "nav_title": "WHY WE ARE",
+            "heading": "LASHIFY PHILOSOPHY",
+            "subheading": "If we're going to do it we're going to be the best. Each one of Lashify's products are rigorously tested. Our formulas undergo voluntary lab testing assuring the safety of our products. We believe in creating products that work and bringing transparency and realness to every aspect of Lashify."
+          }
+        },
+        "16357413702f589e33-3": {
+          "type": "vip-benefit",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/Innovation_3.png",
+            "image_mobile": "shopify:\/\/shop_images\/Innovation_3.png",
+            "nav_title": "for the love of bob and dogs",
+            "heading": "for the love of dogs",
+            "subheading": "It all started with a desire to help animals and bring truth. On her journey with her bulldog, Bob, Sahara realized that natural medicine and foods were curing animals where pharmaceutical alternatives were not. Her findings were dismissed due to the lack of research. In order to prove the efficacy of natural options studies were needed, however natural alternatives lacked a benefactor. Lashify was born.\n\nUnder her non-profit Bobzilla.org, Lashify has donated 80K to Roadogs and Rescue, 40K to AHVMF.org and recently funded a 228K study on the dangers of dog food with MUSC and researcher David Turner."
+          }
+        }
+      },
+      "block_order": [
+        "16357413702f589e33-0",
+        "16357413702f589e33-1",
+        "16357413702f589e33-2",
+        "16357413702f589e33-3"
+      ],
+      "settings": {
+        "bg_image": "shopify:\/\/shop_images\/benefits_bg.jpg",
+        "heading": "WHAT IS LASHIFY?",
+        "subheading": "LASHIFY IS AN AWARD WINNING PATENTED LASH SYSTEM WITH HALF A MILLION CUSTOMERS WORLDWIDE. WE ARE THE PIONEERS OF THE UNDERLASH TECHNOLOGY™\n\nTHE FOUNDATION OF THE SYSTEM INCLUDES A PATENTED WAND, GOSSAMER LASH, CARTRIDGE, AND MICRO-FLEX BOND WORKING TOGETHER TO CREATE THE MOST BEAUTIFUL LASHES IN THE WORLD\n\nLASHIFY LAUNCHED IN 2018 AND TODAY WE ARE THE LEADER AND DISRUPTOR IN LASH TECHNOLOGY",
+        "top_padding_desktop": 18,
+        "top_padding_mobile": 40,
+        "bottom_padding_desktop": 120,
+        "bottom_padding_mobile": 73
+      }
+    },
+    "16357400684c384b85": {
+      "type": "press",
+      "disabled": true,
+      "blocks": {
+        "0707139f-a6d4-4ef5-866a-3f4eecbdb5ab": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Anything and everything is possible.",
+            "logo": "shopify:\/\/shop_images\/gallery-4.jpg",
+            "logo_max_width": 200
+          }
+        },
+        "47cc5819-ac29-461c-a7d1-971296f761a9": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Create based on need.",
+            "logo": "shopify:\/\/shop_images\/custom_resized_511e289d-a67c-4d0c-bb01-c867a25d4d32.jpg",
+            "logo_max_width": 200
+          }
+        },
+        "faa8e1d7-5e7a-4226-ae82-cec7fb7678b5": {
+          "type": "testimonial",
+          "settings": {
+            "content": "I don't care what others are doing. If I did I would have never invented Lashify.",
+            "logo": "shopify:\/\/shop_images\/sahara.png",
+            "logo_max_width": 200
+          }
+        },
+        "e5aa20f1-63ca-46b6-8f90-b72e2c391e09": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Transparency and truth first. The rest will come.",
+            "logo": "shopify:\/\/shop_images\/Screen_Shot_2021-10-29_at_4.15.54_PM.png",
+            "logo_max_width": 200
+          }
+        }
+      },
+      "block_order": [
+        "0707139f-a6d4-4ef5-866a-3f4eecbdb5ab",
+        "47cc5819-ac29-461c-a7d1-971296f761a9",
+        "faa8e1d7-5e7a-4226-ae82-cec7fb7678b5",
+        "e5aa20f1-63ca-46b6-8f90-b72e2c391e09"
+      ],
+      "settings": {
+        "headline": "WHAT WE BELIEVE",
+        "display_state": "all",
+        "mobile_top_padding": 24,
+        "mobile_bottom_padding": 50,
+        "desktop_top_padding": 40,
+        "desktop_bottom_padding": 30
+      }
+    },
+    "16516847024c296b31": {
+      "type": "banner",
+      "settings": {
+        "intro": "",
+        "mobile_headline": "About Lashify",
+        "headline": "About Lashify",
+        "mobile_content": "",
+        "content": "",
+        "text_color": "white",
+        "desktop_background_image": "shopify:\/\/shop_images\/Untitled_design-9-2.png",
+        "mobile_background_image": "shopify:\/\/shop_images\/Untitled_design-9-2.png",
+        "desktop_height": 500,
+        "mobile_height": 400,
+        "cta_text": "",
+        "cta_link": "",
+        "secondary_cta_text": "",
+        "secondary_cta_link": "",
+        "video_url": "",
+        "overlay_opacity3": 70,
+        "desktop_text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "desktop_content_position": "center",
+        "mobile_content_position": "center",
+        "display_state": "all"
+      }
+    },
+    "1651942989e16c5e9b": {
+      "type": "about-imgRight",
+      "settings": {
+        "custom_text_span1": "our company",
+        "custom_text_title-first": "THE BEAUTY THINK TANK",
+        "custom_text_body-first": "<p>More than just an award-winning brand, Lashify is known for its disruption and innovation - holding over 130 patents and 50 trademarks world-wide. As creators of the Underlash Technology™, and the worlds first and only DIY lash extension system, we make complex beauty applications simple.  At our core is transparency, truth in advertising, creating superior products that empower our clients and making the impossible possible. Lashify's clients rely on the transparency and quality that Lashify brings to their daily lives, knowing they will always be able to control their own beauty without compromise. As disruptors we continue to disrupt not only the beauty industry, but the corporate model. <\/p>",
+        "column_image1": "shopify:\/\/shop_images\/store_mobile.png",
+        "link_label": "Read More",
+        "link_url": "https:\/\/lashify.com\/blogs\/lashify-news\/the-mother-of-invention"
+      }
+    },
+    "16519429977a8969c8": {
+      "type": "about-imgLeft",
+      "settings": {
+        "custom_text_span": "our founder",
+        "custom_text_title": "The lash queen, <br> Sahara Lotti",
+        "custom_text_body": "<p>In a world where CEO’s are faceless, nameless even, Sahara Lotti is synonymous with Lashify and their DNA is intertwined.  She’s unabashed and unapologetic, just like the system she created. Before Lashify, there was nothing in the market other than human hair strips, extensions, and little tiny clusters. She knew what she wanted. She knew what she needed. And it just didn’t exist. So, she went on to make it.  She cracked the lash code. Turns out, the world wanted it just as badly. <br\/><\/p><p>The revolutionary Gossamer® lash,  Fuse Control™ Wand,  bonds, Cartridge and Underlash Technology™  have changed the beauty industry and lash world.  Each piece was engineered, designed and or formulated by Lotti.  Lucky for us, Lotti sees holes in a marketplace and seeks to fill them via innovation.  Lashify is the owner of over 150 patents worldwide with Sahara Lotti named as the sole inventor. Sahara Lotti is currently the leading innovator worldwide when it comes to lash technology. <\/p>",
+        "column_image": "shopify:\/\/shop_images\/sahara_mobile.png",
+        "link_label": "Sahara's Selects",
+        "link_url": "shopify:\/\/collections\/saharas-selects"
+      }
+    },
+    "1651951347e2023221": {
+      "type": "about-imgRight",
+      "settings": {
+        "custom_text_span1": "Our mission",
+        "custom_text_title-first": "for the love <br> of dogs",
+        "custom_text_body-first": "<p>Protecting our furry companions is more than just a mission, it’s our purpose and ethos. Lashify was born of the need to bring a product to market that was wanted and needed. We knew if we could create this market and own the IP, not only could we change the lives of lash lovers everywhere, but we could be able to fund research needed to protect our animals. We believe in doing right by those who don’t have a voice. We believe that being blessed warrants giving back. We know what we do and what we stand for. That’s why Lashify is actively involved in helping all dog breeds, English Bulldogs in particular, through charitable contributions, funding of research, and in partnership with our friends at Road Dogs & Rescue and Bobzilla.org.<\/p>",
+        "column_image1": "shopify:\/\/shop_images\/dog_mobile_90411ade-9996-49f4-a24b-49909e3ff27e.png",
+        "link_label": "Learn More",
+        "link_url": "http:\/\/Bobzilla.org"
+      }
+    },
+    "165188918975d79d5e": {
+      "type": "about-cta",
+      "disabled": true,
+      "blocks": {
+        "360fde88-11dd-4423-b052-01e954621a37": {
+          "type": "about-section",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/store_mobile.png",
+            "image_mobile": "shopify:\/\/shop_images\/store_desktop.png",
+            "lead": "our company",
+            "title": "THE BEAUTY THINK TANK",
+            "text": "More than just an award-winning brand, Lashify is known for its disruption and innovation - holding over 130 patents and 50 trademarks world-wide. As creators of the Underlash Technology™, we make complex beauty applications simple. At our core is transparency, truth in advertising, creating superior products that empower our clients and making the impossible possible. We put words into action. Lashify's clients rely on the transperncy and quality that Lashify brings to their daily lives, knowing they will always be able to control their own beauty without compormise. As disruptors we continue to disrupt not only the beauty industry, but the corporate model.",
+            "link_label": "Read More",
+            "link_url": "https:\/\/lashify.com\/blogs\/lashify-news\/the-mother-of-invention"
+          }
+        },
+        "65a53c4c-13e6-4bc8-a842-05124f19f1e2": {
+          "type": "about-section",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/shara_desktop.png",
+            "image_mobile": "shopify:\/\/shop_images\/sahara_mobile.png",
+            "lead": "our founder",
+            "title": "The lash queen <br> Sahara Lotti",
+            "text": "In a world where CEO’s are faceless, nameless even, Sahara is synonymous with Lashify. And their DNA is intertwined. She’s unabashed and unapologetic, just like the system she created. Before Lashify, she couldn’t believe there was nothing in the market other than human hair strips, extensions, and little tiny clusters. She knew what she wanted.She knew what she needed. And it just didn’t exist. So, she went on to make it. She cracked the lash code. Turns out, the world wanted it just as badly. The revolutionary Gossamer® lash, Fuse Control™ Wand, Whisper Light™ flexible bond and Underlash Technology™ have changed the way lash lives are lived. Lucky for us, Lotti sees holes in a marketplace that is uninspired and seeks to fill them, as she has continued to do so thanks to innovation being top priority. And, always luxurious at accessible pricing.",
+            "link_label": "Sahara's Selects",
+            "link_url": "shopify:\/\/collections\/saharas-selects"
+          }
+        },
+        "bdad3c2c-eb82-4db2-a3f7-e9ed8917db09": {
+          "type": "about-section",
+          "settings": {
+            "image_desktop": "shopify:\/\/shop_images\/dog_desktop.png",
+            "image_mobile": "shopify:\/\/shop_images\/dog_mobile_90411ade-9996-49f4-a24b-49909e3ff27e.png",
+            "lead": "Our mission",
+            "title": "for the love <br> of dogs",
+            "text": "Protecting our furry companions is more than just a mission, it’s our purpose and ethos. Lashify was born of the need to bring a product to market that was wanted and needed. We knew if we could create this market and own the IP, not only could we change the lives of lash lovers everywhere, but we could be able to fund research needed to protect our animals. We believe in doing right by those who don’t have a voice. We believe that being blessed warrants giving back. We know what we do and what we stand for. That’s why Lashify is actively involved in helping all dog breeds, English Bulldogs in particular, through charitable contributions, funding of research, and in partnership with our friends at Road Dogs & Rescue and Bobzilla.org.",
+            "link_label": "Learn More",
+            "link_url": "http:\/\/Bobzilla.org"
+          }
+        }
+      },
+      "block_order": [
+        "360fde88-11dd-4423-b052-01e954621a37",
+        "65a53c4c-13e6-4bc8-a842-05124f19f1e2",
+        "bdad3c2c-eb82-4db2-a3f7-e9ed8917db09"
+      ],
+      "settings": {
+      }
+    },
+    "16518946046bc4e1fc": {
+      "type": "about-banner",
+      "settings": {
+        "intro": "",
+        "mobile_headline": "The Next Level Lash Leaders",
+        "headline": "The Next Level Lash Leaders",
+        "mobile_content": "With over 130+ patents and trademarks world-wide, Lashify is the worlds first DIY lash extension system that allows you to achieve customizable, salon quality extensions in seconds— whenever you want, wherever you want, and however you want.\n\nOur 2016 patented technology is the first of its kind, bringing the damage-free and seamless Gossamer® lash to lash lovers everywhere. We are the leaders in lash innovation and lash health. Nobody has ever thought about lashes like this. Nobody.",
+        "content": "With over 130+ patents and trademarks world-wide, Lashify is the worlds first DIY lash extension system that allows you to achieve customizable, salon quality extensions in seconds— whenever you want, wherever you want, and however you want.\n\nOur 2016 patented technology is the first of its kind, bringing the damage-free and seamless Gossamer® lash to lash lovers everywhere. We are the leaders in lash innovation and lash health. Nobody has ever thought about lashes like this. Nobody.",
+        "text_color": "white",
+        "desktop_background_image": "shopify:\/\/shop_images\/about_ck_explode.png",
+        "mobile_background_image": "shopify:\/\/shop_images\/about_ck_explode.png",
+        "desktop_height": 800,
+        "mobile_height": 800,
+        "cta_text": "",
+        "cta_link": "",
+        "secondary_cta_text": "",
+        "secondary_cta_link": "",
+        "video_url": "",
+        "overlay_opacity3": 70,
+        "desktop_text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "desktop_content_position": "center",
+        "mobile_content_position": "center",
+        "display_state": "all"
+      }
+    },
+    "1651887764eea51a8c": {
+      "type": "about-staff",
+      "blocks": {
+        "e6a19871-9bdc-4f8a-a025-f7ceaa11d3a4": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-05-07_at_11.03.23_AM.png",
+            "title": "Mack Lotti",
+            "position": "",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "87d11be1-c5c0-46e9-9098-60d0bb41d9e7": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dog_roberto_lotti_605eb047-005a-4d4f-b382-5ea595f479d3.png",
+            "title": "ROBERTO LOTTI",
+            "position": "",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "ce6d0c64-0a0a-4dc4-b1bb-17837bbda1f8": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dog_bob_lotti.png",
+            "title": "BOB LOTTI JR.",
+            "position": "",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "49da48d5-e71b-4de4-beac-3748f3256d80": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dog_bobbi_blair.png",
+            "title": "BOBBI BLAIR LOTTI",
+            "position": "",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "b765f6b3-15f3-4b92-bedd-12d5accfe79d": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dog_bowser_aronson.png",
+            "title": "BOWSER ARONSON",
+            "position": "",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        }
+      },
+      "block_order": [
+        "e6a19871-9bdc-4f8a-a025-f7ceaa11d3a4",
+        "87d11be1-c5c0-46e9-9098-60d0bb41d9e7",
+        "ce6d0c64-0a0a-4dc4-b1bb-17837bbda1f8",
+        "49da48d5-e71b-4de4-beac-3748f3256d80",
+        "b765f6b3-15f3-4b92-bedd-12d5accfe79d"
+      ],
+      "settings": {
+        "title": "Dogs of Lashify"
+      }
+    },
+    "1651899010c629a29d": {
+      "type": "about-staff",
+      "blocks": {
+        "b39a3207-0270-4261-8465-115854389fe4": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/60ef7ab19f87f7d82411739226224534.jpg",
+            "title": "Sahara Lotti",
+            "position": "CEO and Founder",
+            "quote": "",
+            "ig": "https:\/\/www.instagram.com\/saharalotti\/?hl=en",
+            "favourite": ""
+          }
+        },
+        "d6108a69-857b-434d-8081-d22608b9d3d7": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/david_yonan.png",
+            "title": "David Yonan",
+            "position": "COO and CFO",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "a278b20b-c81a-4d02-99b2-d1dceef51ee1": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lauren_williams.png",
+            "title": "Lauren Williams",
+            "position": "VP of Human Resources",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "e65d8df6-3e91-4a23-ac4f-39941ec46dd9": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jeshua_nan.png",
+            "title": "Jeshua Nanthakumar",
+            "position": "Chief Design Officer",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "47a56774-656f-4597-9cfd-0a19a9640412": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-8_7470de28-f1e4-4e84-a68b-8e1fda684f5a.png",
+            "title": "Tim Gaughan",
+            "position": "Interim Chief Growth Officer",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "0316ea7a-b635-480b-ab5e-5686f8ac1606": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/samir_khandhar.png",
+            "title": "Samir Khandhar",
+            "position": "Interim Chief of Digital",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        }
+      },
+      "block_order": [
+        "b39a3207-0270-4261-8465-115854389fe4",
+        "d6108a69-857b-434d-8081-d22608b9d3d7",
+        "a278b20b-c81a-4d02-99b2-d1dceef51ee1",
+        "e65d8df6-3e91-4a23-ac4f-39941ec46dd9",
+        "47a56774-656f-4597-9cfd-0a19a9640412",
+        "0316ea7a-b635-480b-ab5e-5686f8ac1606"
+      ],
+      "settings": {
+        "title": "LEADERSHIP"
+      }
+    },
+    "16519045588783a57c": {
+      "type": "about-staff",
+      "blocks": {
+        "308b7f64-a5a7-45a6-9aab-934291cd191f": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elizabeth_genel.png",
+            "title": "Elizabeth Genel",
+            "position": "Education Director",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "4d9f0eee-2171-4455-9a42-3cab0a4454ba": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jill_Medicis.png",
+            "title": "Jillian Medicis",
+            "position": "Lashify Pro and Pro Educator, Senior Manager",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "67219dcd-2677-4024-8175-0935fe6ce156": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gerilyn_paguia.png",
+            "title": "Gerilyn Paguia",
+            "position": "Pro Educator, 1:1 Tutorial and Educator Team Manager",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "345550c0-c1ad-4966-bc72-5f228675b77e": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vanessa_quinteros.png",
+            "title": "Vanessa Quinteros",
+            "position": "Pro Educator, Social Community and Training Manager",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "614abd4d-d5a4-45b5-b0cb-3c76478978e7": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mikayla_hawkinson.png",
+            "title": "Mikayla Hawkinson",
+            "position": "Pro Educator, Video Content Creator and Editor",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "05aee76a-428d-4509-b65c-2ef66885a63e": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/monica_diaz.png",
+            "title": "Monica Diaz",
+            "position": "Educator",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "56ecb06c-a36d-403f-95d9-11c0cc1d23ed": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/josie_figueroa.png",
+            "title": "Josie Figueroa",
+            "position": "Educator",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "9f2cae10-2d80-442e-9297-8e7a3e841109": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tori_McGovern.png",
+            "title": "Tori McGovern",
+            "position": "Educator",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "b145d030-20a6-4b29-b152-ab4a63fa7787": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/danni_jenae.png",
+            "title": "Danni Jenae",
+            "position": "educator",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "5abe17d5-f6b4-4956-a07a-938372be2fbf": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beverly_dudley.png",
+            "title": "Beverly Dudley",
+            "position": "Educator",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "42830684-d3d0-43bb-91da-9552b1001209": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/christina_saewert.png",
+            "title": "Christina Saewert",
+            "position": "Educator",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "761f02a4-34f4-4261-aacc-9a7f0b7d1bce": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jocelyn_Vallejo.png",
+            "title": "Jocelyn Vallejo",
+            "position": "Educator",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        }
+      },
+      "block_order": [
+        "308b7f64-a5a7-45a6-9aab-934291cd191f",
+        "4d9f0eee-2171-4455-9a42-3cab0a4454ba",
+        "67219dcd-2677-4024-8175-0935fe6ce156",
+        "345550c0-c1ad-4966-bc72-5f228675b77e",
+        "614abd4d-d5a4-45b5-b0cb-3c76478978e7",
+        "05aee76a-428d-4509-b65c-2ef66885a63e",
+        "56ecb06c-a36d-403f-95d9-11c0cc1d23ed",
+        "9f2cae10-2d80-442e-9297-8e7a3e841109",
+        "b145d030-20a6-4b29-b152-ab4a63fa7787",
+        "5abe17d5-f6b4-4956-a07a-938372be2fbf",
+        "42830684-d3d0-43bb-91da-9552b1001209",
+        "761f02a4-34f4-4261-aacc-9a7f0b7d1bce"
+      ],
+      "settings": {
+        "title": "Education"
+      }
+    },
+    "16519049929413e3df": {
+      "type": "about-staff",
+      "blocks": {
+        "b02b92e9-c9b2-4993-a110-41804321bafb": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jasmin_hack.png",
+            "title": "Jasmin Hack",
+            "position": "Senior Graphic Designer",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "95e497c6-9c40-4768-a65d-822f4a5e8b3d": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/abigail_chu.png",
+            "title": "Abigail Chu",
+            "position": "Art Director",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "e9f523ee-5d24-4c61-8215-3dc11d92b823": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sarah_lejeune.png",
+            "title": "Sarah LeJeune",
+            "position": "Video Editor",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "e85f6c11-5b98-4f21-8c3c-2329e4423fad": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Aida_tarrah.png",
+            "title": "Aida Tarrah ",
+            "position": "Front End Developer",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        }
+      },
+      "block_order": [
+        "b02b92e9-c9b2-4993-a110-41804321bafb",
+        "95e497c6-9c40-4768-a65d-822f4a5e8b3d",
+        "e9f523ee-5d24-4c61-8215-3dc11d92b823",
+        "e85f6c11-5b98-4f21-8c3c-2329e4423fad"
+      ],
+      "settings": {
+        "title": "Creative"
+      }
+    },
+    "165190133517d5a684": {
+      "type": "about-staff",
+      "blocks": {
+        "3c9706e5-1b32-492c-b629-1b6b5628450d": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heather_nixon.png",
+            "title": "Heather Rixon",
+            "position": "Director of Concierge",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "d8bf5f6a-7477-4008-9f5e-1d00c5054a3b": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Alexandra_gonzalez.png",
+            "title": "Alexandra Gonzalez",
+            "position": "Senior Concierge",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "79edaf61-d7d3-4d0e-ae6d-5496f4567795": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Chrstine_parker.png",
+            "title": "Christine Parker",
+            "position": "Manager of Concierge Operations",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "3eb0bf1e-b720-428c-afdc-c8a354853b87": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/taylor_stovall.png",
+            "title": "Taylor Stovall",
+            "position": "Senior Concierge",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "6e859f19-de34-42f8-9f9f-cc4b2f92eb09": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-7_62558e9a-1afc-4d0a-b4ad-8ca2f85a007d.png",
+            "title": "Sophia Mian ",
+            "position": "Senior Concierge",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "fe0e6ba2-d46a-477a-9c17-1a0a8c366cdb": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kimmie_photo.png",
+            "title": "Kimberly Geer",
+            "position": "Concierge",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "35e975b9-89fb-48d6-8262-8d960df896d3": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/stacy_erwin.png",
+            "title": "Stacy Erwin",
+            "position": "Concierge",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "3570291a-8ee2-49d0-b52f-b25e893f7328": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/katie_allen.png",
+            "title": "Katherine Allen",
+            "position": "Concierge",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "261b2521-8f58-4ded-955e-2231c1599d53": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-10_46ad0278-fd1a-400a-a616-50038055a57e.png",
+            "title": "Darcy Lenhart",
+            "position": "Concierge",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        }
+      },
+      "block_order": [
+        "3c9706e5-1b32-492c-b629-1b6b5628450d",
+        "d8bf5f6a-7477-4008-9f5e-1d00c5054a3b",
+        "79edaf61-d7d3-4d0e-ae6d-5496f4567795",
+        "3eb0bf1e-b720-428c-afdc-c8a354853b87",
+        "6e859f19-de34-42f8-9f9f-cc4b2f92eb09",
+        "fe0e6ba2-d46a-477a-9c17-1a0a8c366cdb",
+        "35e975b9-89fb-48d6-8262-8d960df896d3",
+        "3570291a-8ee2-49d0-b52f-b25e893f7328",
+        "261b2521-8f58-4ded-955e-2231c1599d53"
+      ],
+      "settings": {
+        "title": "Concierge"
+      }
+    },
+    "16519053465e04994b": {
+      "type": "about-staff",
+      "blocks": {
+        "012258fd-b314-415d-be71-a4f72ef92b00": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/32fb0999514e1159154c216ef3956b29.jpg",
+            "title": "Natasha Golitsina",
+            "position": "Head of Finance",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "50c8cb20-1be6-4c49-94d3-2da145c7adb4": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/andrea_aronson.png",
+            "title": "Andrea Aronson",
+            "position": "Director, Office of the CEO",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "400885ee-3d9a-40e9-8002-1d0138d6e3ea": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-5_102afdea-dd7d-49ad-9d0f-f393fe779e37.png",
+            "title": "Lana Gonsalves",
+            "position": "Director, Logistics",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "589f5849-0449-425a-be6e-f62e27714b12": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-9_44d89071-dfab-4733-82fc-9bfd8cd0a83e.png",
+            "title": "Jeannie Sit",
+            "position": "Director, Product Innovation and Sourcing",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "aed22498-4393-4632-acb1-d6eb2201b314": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d61dbc23537758429a2110aa5751e907.jpg",
+            "title": "Olek Tkach",
+            "position": "Senior Accountant",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "82c4b550-b029-4c21-a2ce-914426515376": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-6.png",
+            "title": "Erin Collins",
+            "position": "HR Generalist",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "29d5f9db-b1b9-4d59-b6f9-cd9f97672bac": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/estefany_estrada.png",
+            "title": "Estefany Estrada",
+            "position": "Assistant Manager, Planning and Sourcing",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "3f348041-8966-4f2c-927e-404e2ebbf5f3": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-10_46ad0278-fd1a-400a-a616-50038055a57e.png",
+            "title": "Susana Alvarado",
+            "position": "Inventory Manager",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "9becbd52-e604-4e59-9933-6076218b042a": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-8_7470de28-f1e4-4e84-a68b-8e1fda684f5a.png",
+            "title": "Maria Montes",
+            "position": "Purchasing and Planning Manager",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "65cc2b3b-4f8d-44c3-bfe3-ce71cc103fcf": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-7_62558e9a-1afc-4d0a-b4ad-8ca2f85a007d.png",
+            "title": "Lauren Hausman",
+            "position": "Business Analyst",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        }
+      },
+      "block_order": [
+        "012258fd-b314-415d-be71-a4f72ef92b00",
+        "50c8cb20-1be6-4c49-94d3-2da145c7adb4",
+        "400885ee-3d9a-40e9-8002-1d0138d6e3ea",
+        "589f5849-0449-425a-be6e-f62e27714b12",
+        "aed22498-4393-4632-acb1-d6eb2201b314",
+        "82c4b550-b029-4c21-a2ce-914426515376",
+        "29d5f9db-b1b9-4d59-b6f9-cd9f97672bac",
+        "3f348041-8966-4f2c-927e-404e2ebbf5f3",
+        "9becbd52-e604-4e59-9933-6076218b042a",
+        "65cc2b3b-4f8d-44c3-bfe3-ce71cc103fcf"
+      ],
+      "settings": {
+        "title": "Operations"
+      }
+    },
+    "16519052329948d55e": {
+      "type": "about-staff",
+      "blocks": {
+        "a99d9d40-c1a9-46d6-a553-0c6540afd7d0": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-5_102afdea-dd7d-49ad-9d0f-f393fe779e37.png",
+            "title": "Jeffrey Coon",
+            "position": "Director, Warehouse Operations",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "ba0835ea-13f7-4abe-97ee-9164d0baa9a1": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-10_46ad0278-fd1a-400a-a616-50038055a57e.png",
+            "title": "Mitchell Sanchez",
+            "position": "Senior Fulfillment Manager",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "e230c540-8b18-4de2-ab47-8a6bc12e0810": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-6.png",
+            "title": "Lorenzo Vega",
+            "position": "Assistant Warehouse Operations Manager",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "ecbf8a72-6d8e-4db1-9119-2a55b5c58d78": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-8_7470de28-f1e4-4e84-a68b-8e1fda684f5a.png",
+            "title": "Manuel ELizarraras",
+            "position": "Fulfillment",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "5e6918d8-545b-4aaf-8ac7-4785f11c545e": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-7_62558e9a-1afc-4d0a-b4ad-8ca2f85a007d.png",
+            "title": "Andrew Mancia",
+            "position": "Fulfillment",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "5fd7d0a5-53dd-49fb-bf56-e62309985dae": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-9_44d89071-dfab-4733-82fc-9bfd8cd0a83e.png",
+            "title": "Frank Sanchez",
+            "position": "Fulfillment",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "768dcd06-6e31-4da3-b7d8-d4da3772d25c": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-5_102afdea-dd7d-49ad-9d0f-f393fe779e37.png",
+            "title": "Michael Murillo",
+            "position": "Fulfillment",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "fb8cfac2-42ba-48ab-9e54-6b72e9788c8e": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-6.png",
+            "title": "Karen Hernandez",
+            "position": "Fulfillment",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "e8c24dbd-8e20-43af-9a90-037ca288d02e": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-10_46ad0278-fd1a-400a-a616-50038055a57e.png",
+            "title": "Jose Cazares",
+            "position": "Fulfillment",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "dbda6e66-6baa-4541-8968-3cb67fb3515e": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-9_44d89071-dfab-4733-82fc-9bfd8cd0a83e.png",
+            "title": "Judith Sibrian",
+            "position": "Fulfillment",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "997ccba0-80c8-4523-8178-d7e7fa1bf34b": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-8_7470de28-f1e4-4e84-a68b-8e1fda684f5a.png",
+            "title": "Prince-Ezra Allen",
+            "position": "Fulfillment",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        },
+        "7210cdb0-9d1b-4548-b67a-a94ee413c3df": {
+          "type": "staff",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design-5_102afdea-dd7d-49ad-9d0f-f393fe779e37.png",
+            "title": "Ayme Estrada",
+            "position": "Fulfillment",
+            "quote": "",
+            "ig": "",
+            "favourite": ""
+          }
+        }
+      },
+      "block_order": [
+        "a99d9d40-c1a9-46d6-a553-0c6540afd7d0",
+        "ba0835ea-13f7-4abe-97ee-9164d0baa9a1",
+        "e230c540-8b18-4de2-ab47-8a6bc12e0810",
+        "ecbf8a72-6d8e-4db1-9119-2a55b5c58d78",
+        "5e6918d8-545b-4aaf-8ac7-4785f11c545e",
+        "5fd7d0a5-53dd-49fb-bf56-e62309985dae",
+        "768dcd06-6e31-4da3-b7d8-d4da3772d25c",
+        "fb8cfac2-42ba-48ab-9e54-6b72e9788c8e",
+        "e8c24dbd-8e20-43af-9a90-037ca288d02e",
+        "dbda6e66-6baa-4541-8968-3cb67fb3515e",
+        "997ccba0-80c8-4523-8178-d7e7fa1bf34b",
+        "7210cdb0-9d1b-4548-b67a-a94ee413c3df"
+      ],
+      "settings": {
+        "title": "Warehouse Operations"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1636073160df78abd2",
+    "16357413702f589e33",
+    "16357400684c384b85",
+    "16516847024c296b31",
+    "1651942989e16c5e9b",
+    "16519429977a8969c8",
+    "1651951347e2023221",
+    "165188918975d79d5e",
+    "16518946046bc4e1fc",
+    "1651887764eea51a8c",
+    "1651899010c629a29d",
+    "16519045588783a57c",
+    "16519049929413e3df",
+    "165190133517d5a684",
+    "16519053465e04994b",
+    "16519052329948d55e"
+  ]
+}
